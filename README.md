@@ -1,4 +1,4 @@
-微博：[zhh-4096](#https://weibo.com/zhh2009?from=inf&wvr=5&loc=infdomain) 的自研数据库
+微博：[zhh-4096](https://weibo.com/zhh2009?from=inf&wvr=5&loc=infdomain) 的自研数据库
 
 ### Lealone是什么
 * 是一个兼具RDBMS、NoSQL优点的面向[OLTP](http://en.wikipedia.org/wiki/Online_transaction_processing)场景的异步化NewSQL单机与分布式关系数据库
